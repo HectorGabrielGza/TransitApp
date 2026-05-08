@@ -1,5 +1,3 @@
-# TransitApp 1.0- Educación Vial
-
 # TransitApp 1.0 - Educación Vial
 
 ¡Bienvenido al proyecto! Puedes probar la aplicación descargando el instalador directamente desde aquí:
