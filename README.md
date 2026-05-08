@@ -2,7 +2,7 @@
 
 ¡Bienvenido al proyecto! Puedes probar la aplicación descargando el instalador directamente desde aquí:
 
-[⬇️ Descargar TransitApp APK]((https://github.com/HectorGabrielGza/TransitApp/releases/download/v1.0.0/app-release.apk))
+[⬇️ Descargar TransitApp APK](https://github.com/HectorGabrielGza/TransitApp/releases/download/v1.0.0/app-release.apk)
 
 ---
 ### Requisitos
